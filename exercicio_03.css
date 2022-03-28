@@ -1,0 +1,26 @@
+.container{
+    background-color: #D9AC25;
+    width: 290px;
+    height: 440px;
+}
+.interno{
+    background-color: #332259; 
+    width: 44%; 
+    height: 30%;
+}
+p{
+    color: pink; 
+    background-color: maroon; 
+    font-size: 40px; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.con2{
+    width: 97%; 
+    height: 19vh; 
+    background-color: rgb(25, 255, 221);
+}
+.int2{
+    width: 88vw; 
+    height: 55%; 
+    background-color: rgb(179, 18, 179);
+}
